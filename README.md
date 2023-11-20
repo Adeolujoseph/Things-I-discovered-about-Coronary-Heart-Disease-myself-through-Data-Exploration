@@ -10,7 +10,7 @@ Chest pain, Sweating, palpitations, Dizziness, Fatigue, Shortness of breath
 Medical history, physical examination, Stress Test, Various medical images like ECHO,CCTA,MRI etc
 
 ## Inspiration
-After this disease was diagnosed in a close relative, I began to look closely into the challenges with its diagnoses. Many patients can be asymtomptic and symtoms can vary widely among individuals. Since lifestyle and medical history contributes greatly to the occurrence of most diseases, I got Interesed in how and what this large dataset can reveal about CHD.
+After this disease was diagnosed in a close relative, I began to look closely into the challenges with its diagnoses. Many patients can be asymtomptic and symtoms can vary widely among individuals. Since lifestyle and medical history contributes greatly to the occurrence of most diseases, I got Interesed in how and what this large dataset can reveal about CHD by asking several exploration questions
 
 ## Project Dataset
 Dataset is the BRFSS (Behavioral Risk Factor Surveillance System) 2015  dataset cleaned by ALEX TEBOUL. 
