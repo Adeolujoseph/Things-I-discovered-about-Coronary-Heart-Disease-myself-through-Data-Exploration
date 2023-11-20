@@ -20,6 +20,9 @@ Link to the cleaned dataset: https://www.kaggle.com/alexteboul/heart-disease-hea
 
 BRFSS 2015 Codebook for the original dataset: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
 
+## Dependencies
+Pandas, Numpy and Matplotlib
+
 ## Column Description
 
 1. HeartDiseaseorAttack-Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI) -1(Yes) or 0 (No)
